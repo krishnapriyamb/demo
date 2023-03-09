@@ -1,0 +1,4 @@
+anu,cs,345
+amal,cs,567
+arun,cse,389
+anaga,cs,560

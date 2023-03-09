@@ -1,0 +1,9 @@
+anu
+megha
+amal
+rahul
+arun
+maya
+
+
+print name starts with a

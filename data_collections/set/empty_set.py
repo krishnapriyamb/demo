@@ -1,0 +1,7 @@
+set1=set()
+set1.add(3)
+set1.add(4)
+set1.add('hi')
+set1.add(False)
+print(set1)
+print(type)

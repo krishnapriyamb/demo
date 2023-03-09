@@ -1,0 +1,4 @@
+anu,23,kakkanad
+amal,24,kochi
+vimal,21,calicut
+anaga,24,thrissur
